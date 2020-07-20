@@ -4,7 +4,7 @@ html,body{
 	height: 100px;
 }
 .lifang{
-	margin-top: 50%;
+	margin-top: 20%;
 	position: absolute;
 	left: calc(50% - 100px);
 	top: calc(50% - 100px);
